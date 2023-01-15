@@ -3,4 +3,4 @@ Cyberpunk Edgerunners (Anime) | Mr.Robot (Serial) | (updating...)
 
 ### List of Wallpapers
   - Cyberpunk Edgerunners
-    - [Preview](./Preview/readme.md)
+    - [Preview](Cyberpunk%20Edgerunners/Preview/readme.md)
